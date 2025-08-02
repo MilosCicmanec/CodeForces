@@ -1,0 +1,11 @@
+vyzera ze staci urobit sum k-1 elementov zprava a potom k tomu pripocitat najvacise cislo z rozsahu [0,n-k+1]
+
+aby bol kod efektivnjesi mouzijem dp na najdenie najvacsieho elemntu v rozsahu [0,i] cize dp[i] = max(arr[0],arr[1], arr[2] ... arr[i])
+
+aby som nemusel prepocitavat sumu kazdy krat od znova vzdy iba odpocitam to co som posledne potiahol z dp pripocitam elemnt ktory tam skutocne bol a pripocitam dalsi elemnt z dp
+
+nakoniec som urobil tabulku pre sumu lebo tento pristup vyzeral zlozito
+
+trosku krkolomne riesenie mozno nabuduce treba lepsie rozplanovat budovanie listov aby som nemusel reversovat list 
+
+
