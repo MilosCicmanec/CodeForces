@@ -1,0 +1,11 @@
+pocas input fazy urobime sum lavych a pravych rukavic;
+vacsia s tychto sums bude zaklad pre nas min_needed_to_take_out;
+potom sortneme mensiu s array a budeme postupne popovat od konca;
+budeme to robit tak by sme vzdy odobrali k-1 potrebnych parov;
+toto budeme pripocitavat k min_needed_to_take_out;
+toto potom vratime;
+
+tento napad z nadhladu nebol zly ale nebol uplne spravny;
+skutocne minimum je ked zoberieme pre kazdu dvojicu l[i] r[i];
+zoberieme ich minimum a potom pripocitame k-1 min(l[i],r[i]) a pridame k tomu 1; zo zadu listu
+co zaruci ze dostaneme minimum;

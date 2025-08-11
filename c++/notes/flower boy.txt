@@ -1,0 +1,3 @@
+idea je dat binary search na cisla 0-najvacise cislo z m
+a to cislo nasledne dosadit na vsetky mozne pozicie
+otazne je ze ci to bude dostatocne rychle?

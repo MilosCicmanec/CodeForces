@@ -1,0 +1,13 @@
+vyhrava vacsia karta s vinimkou ze 1 poraza n; keby tu neni tato vinimka tak nam staci najst kto ma najvacsiu kartu; 
+
+ktokolvek ma najvacsiu kartu a zaroven maju 1 automaticky vyhraje; 
+
+dolezite je podla mna ze ak ma bob najvacsiu kartu a ma 2 a viac kariet dokopi a alica ma 1 tak potom bob vyhra lebo on vidi ci ona dala 1 a v tom pripade pripade pouzije hocijaku inu kartu;
+
+dalsia vec je ze ak ma alica najvisiu kartu a bob ma 1 tak potom rozhoduje kto ma 2. najvacsiu kartu a ten jednoducho vyhra 
+
+cize suhrn :
+
+ak ma niekto n a zaroven 1 - vyhral
+ak ma bob n a alica ma 1 tak ak ma bob 2 a viac kariet tak vyhral ak ma iba jednu kartu prehral
+ak ma alica najvacsiu a bob ma 1 tak rozhoduje 2. najvacsia karta 
